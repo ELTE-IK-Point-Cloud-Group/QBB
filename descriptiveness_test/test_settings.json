@@ -1,0 +1,16 @@
+{
+    "sampleNum": 5000,
+    "keypoint_support_radius": 0.06, 
+    "repeat": 5, 
+    "cloud_pairs": 1,
+    "dim": 33, 
+    "descriptor":  "fpfh", 
+    "dataset_name": "data",
+    "dataset_path": "../examples/",
+    "input_cloud_format": ".ply", 
+    "persistence_file": "fpfh_save.data",
+    "is_binary": false,
+    "read_persisted_data": false,
+    "use_custom_metric": false,
+    "bits": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 1, 1, 1, 3, 4, 4, 5, 7, 6, 7, 5, 4, 4, 3]
+}

@@ -1,0 +1,8 @@
+# Pycache
+*.pyc
+
+# Descriptiveness Test results
+descriptiveness_test/logs
+descriptiveness_test/logs_image
+descriptiveness_test/results
+descriptiveness_test/*.data
